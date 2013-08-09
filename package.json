@@ -1,0 +1,16 @@
+{
+  "name": "passport-imgur",
+  "version": "0.0.1",
+  "description": "Imgur API authentication strategy for Passport.",
+  "author": "Monday Freelem <mfthemon@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/mindfreakthemon/passport-imgur.git"
+  },
+  "main": "./lib/passport-imgur",
+  "dependencies": {
+    "passport-oauth": ">= 0.1.0"
+  },
+  "engines": { "node": ">= 0.4.0" },
+  "keywords": ["passport", "imgur", "oauth", "oauth2", "auth", "authentication", "identity"]
+}
