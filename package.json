@@ -1,6 +1,6 @@
 {
   "name": "passport-imgur",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Imgur API authentication strategy for Passport.",
   "author": "Monday Freelem <mfthemon@gmail.com>",
   "repository": {
